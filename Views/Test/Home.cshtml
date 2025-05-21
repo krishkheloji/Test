@@ -1,0 +1,27 @@
+﻿@* @Model.id  <br />
+@Model.name <br />
+@Model.salary *@
+
+@* @model List<Emp> *@
+@model Hybrid
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Salary</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model.emps)
+        {
+            <tr>
+                <th scope="row">@e.id</th>
+                <td>@e.name</td>
+                <td>@e.salary</td>
+            </tr>
+        }
+    </tbody>
+</table>

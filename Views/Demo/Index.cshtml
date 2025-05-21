@@ -1,0 +1,13 @@
+﻿<form method="post">
+    Username <input type="text" class="form-control" name="User"/><br> 
+    Password <input type="password" class="form-control" name="Pass" /><br>
+    <input type="submit" value="Login" class="btn btn-primary"/>
+</form>
+
+
+@if(Model!=null)
+{
+    @Model.Username
+    <br />
+    @Model.Password
+}
