@@ -29,10 +29,10 @@ namespace AprilBatchCoreProject.Controllers
                 new Login{ Username="Sameer",Password="123"},
                 new Login{ Username="Gulam",Password="123"}
             };
-            //var t = new Login();
+            var t = new Login();
             var m = new Mixed()
             {
-                //log = t,
+                log = t,
                 logs = tdata
             };
             return View(m);

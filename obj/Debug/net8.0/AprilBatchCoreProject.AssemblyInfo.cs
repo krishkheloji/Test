@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AprilBatchCoreProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31c94c6f660e70de3966f7d551bf99660972ebc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AprilBatchCoreProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AprilBatchCoreProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

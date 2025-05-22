@@ -32,3 +32,4 @@ C:\Users\finan\source\repos\AprilBatchCoreProject\AprilBatchCoreProject\obj\Debu
 C:\Users\finan\source\repos\AprilBatchCoreProject\AprilBatchCoreProject\obj\Debug\net8.0\AprilBatchCoreProject.pdb
 C:\Users\finan\source\repos\AprilBatchCoreProject\AprilBatchCoreProject\obj\Debug\net8.0\AprilBatchCoreProject.genruntimeconfig.cache
 C:\Users\finan\source\repos\AprilBatchCoreProject\AprilBatchCoreProject\obj\Debug\net8.0\ref\AprilBatchCoreProject.dll
+C:\Users\finan\source\repos\AprilBatchCoreProject\AprilBatchCoreProject\obj\Debug\net8.0\AprilBatchCoreProject.sourcelink.json
