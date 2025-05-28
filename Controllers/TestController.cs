@@ -23,8 +23,7 @@ namespace AprilBatchCoreProject.Controllers
             {
                 new Emp{id=101,name="John",salary=1000},
                 new Emp{id=102,name="Ram",salary=2000},
-                new Emp{id=103,name="Shyam",salary=3000},
-                new Emp{id=104,name="Suyash",salary=4000}
+                
             };
 
             var m1 = new List<Manager>()
